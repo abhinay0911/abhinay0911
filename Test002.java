@@ -1,6 +1,9 @@
 import java.util.Scanner;
 
 public class Test002 {
+    /**
+     * @param args
+     */
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String reply;
