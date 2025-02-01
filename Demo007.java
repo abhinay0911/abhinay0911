@@ -1,6 +1,7 @@
 import java.util.Scanner;
-
-public class Demo7 {
+public class Demo007 {
+    
+    // printing user details
     public static void main(String[] args) {
         Scanner sc = new Scanner (System.in);
         System.out.print("please enter your name:");
